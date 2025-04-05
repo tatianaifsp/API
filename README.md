@@ -16,7 +16,7 @@ Você dá o pedido ao garçom (API), e ele leva para a cozinha (sistema). Quando
 A API faz essa **ponte de comunicação** entre você e o sistema.
 
 ---
-👀 ### **Como Usar APIs no Mercado (Profissional)**
+👀 # **Como Usar APIs no Mercado (Profissional)**
 
 No mercado, APIs são usadas para conectar sistemas de forma eficiente. 
 
@@ -80,9 +80,10 @@ As APIs podem ser classificadas dependendo de como são usadas e acessadas:
 | **WebSocket**| Comunicação em tempo real.                                   | Chat, notificações, jogos multiplayer.          |
 
 ---
-❤💜 Cada etapa é conectada sequencialmente, representando o fluxo de trabalho de criação, teste, implantação e manutenção de uma API.
-[Desenvolvimento] ---> [Testes Automatizados] ---> [Build e Deploy (CI/CD)] ---> [Monitoramento] ---> [Manutenção]
 
+❤💜 **Cada etapa é conectada sequencialmente, representando o fluxo de trabalho de criação, teste, implantação e manutenção de uma API.**
+
+[Desenvolvimento] ---> [Testes Automatizados] ---> [Build e Deploy (CI/CD)] ---> [Monitoramento] ---> [Manutenção]
 
 ---
 **Resumo**:::☺😱
