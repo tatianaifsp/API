@@ -38,10 +38,9 @@ No mercado, APIs são usadas para conectar sistemas de forma eficiente. Aqui est
   Utiliza-se autenticação como OAuth para proteger as comunicações via API.
 
 ### **Tecnologias Usadas**
-- **Frameworks**: Ferramentas como Express.js (https://expressjs.com/pt-br/), Django (https://www.djangoproject.com/), ou Flask( https://flask.palletsprojects.com/) para criar APIs.
-- **Teste e Documentação**: Use ferramentas como Swagger para documentar suas APIs.
-- **Integração Avançada**: APIs podem se conectar com sistemas maiores como ERPs ou CRMs.
-
+- **Frameworks**: Ferramentas como Express.js (https://expressjs.com/pt-br/), Django (https://www.djangoproject.com/), ou Flask( https://flask.palletsprojects.com/) NestJS (Node.js) ( https://docs.nestjs.com/), FastAPI (Python) (https://fastapi.tiangolo.com/) e Spring Data (Java) (https://docs.spring.io/spring-data/jpa/docs/current-SNAPSHOT/reference/html/)  para criar APIs.
+- **Teste e Documentação**: Use ferramentas como Swagger(https://swagger.io/docs/) para documentar suas APIs.
+- **Integração Avançada**: APIs podem se conectar com sistemas maiores como ERPs, CRMs e bancos de dados, como MySQL, PostgreSQL, MongoDB (NoSQL) ou SQLite, para realizar operações CRUD (Create, Read, Update, Delete) de forma eficiente.
 ---
 🚗
 ## **Tipos de APIs no Mercado**
