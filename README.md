@@ -3,6 +3,7 @@
 
 API significa Application Programming Interface, ou, em português, Interface de Programação de Aplicações.  
 É uma maneira de dois sistemas ou aplicações se comunicarem, trocando informações ou pedindo que algo seja feito.  
+
 Pense na API como uma **ponte** que permite que duas aplicações diferentes se comuniquem. Ela define regras e ferramentas para que sistemas possam trocar informações.
 
 #### **Exemplo**  
