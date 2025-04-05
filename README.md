@@ -38,7 +38,7 @@ No mercado, APIs são usadas para conectar sistemas de forma eficiente. Aqui est
   Utiliza-se autenticação como OAuth para proteger as comunicações via API.
 
 ### **Tecnologias Usadas**
-- **Frameworks**: Ferramentas como Express.js, Django, ou Flask para criar APIs.
+- **Frameworks**: Ferramentas como Express.js (https://expressjs.com/pt-br/), Django (https://www.djangoproject.com/), ou Flask( https://flask.palletsprojects.com/) para criar APIs.
 - **Teste e Documentação**: Use ferramentas como Swagger para documentar suas APIs.
 - **Integração Avançada**: APIs podem se conectar com sistemas maiores como ERPs ou CRMs.
 
