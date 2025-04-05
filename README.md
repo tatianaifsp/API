@@ -88,32 +88,5 @@ As APIs podem ser classificadas dependendo de como são usadas e acessadas:
 3. **Exemplo de Fluxo REST**:  
    ![Fluxo de API REST](https://via.placeholder.com/500x250)
 
----
 
-### **Como Criar Sua Primeira API REST**
-Aqui está um exemplo básico usando **Express.js** em Node.js:
 
-```javascript
-const express = require('express');
-const app = express();
-
-app.use(express.json()); // Processar JSON
-
-// Endpoint para listar todos os usuários
-app.get('/usuarios', (req, res) => {
-  res.json([{ id: 1, nome: 'João' }, { id: 2, nome: 'Maria' }]);
-});
-
-// Endpoint para adicionar um novo usuário
-app.post('/usuarios', (req, res) => {
-  const novoUsuario = req.body;
-  res.status(201).json({ mensagem: 'Usuário criado!', usuario: novoUsuario });
-});
-
-// Iniciar servidor
-app.listen(3000, () => console.log('API rodando em http://localhost:3000'));
-```
-
----
-
-Esse texto está formatado para um **README.md** no GitHub, incluindo espaços para figuras. Substitua os links das figuras (`https://via.placeholder.com/...`) por URLs reais das imagens que desejar usar. Caso precise de mais exemplos ou ajustes, me avise! 😊
