@@ -1,5 +1,5 @@
 
-# API😊 
+# API
 
 API significa Application Programming Interface, ou, em português, **Interface de Programação de Aplicações**. 
 
@@ -16,7 +16,7 @@ Você dá o pedido ao garçom (API), e ele leva para a cozinha (sistema). Quando
 A API faz essa **ponte de comunicação** entre você e o sistema.
 
 ---
-👀 # **Como Usar APIs no Mercado (Profissional)**
+ # **Como Usar APIs no Mercado (Profissional)**
 
 No mercado, APIs são usadas para conectar sistemas de forma eficiente. 
 
@@ -32,7 +32,7 @@ Aqui estão alguns exemplos práticos:
 
 ---
   
-👨‍💻👩‍💻 ### **Tecnologias Usadas**
+ ### **Tecnologias Usadas**
 
 **Frameworks**: Ferramentas como Express.js (https://expressjs.com/pt-br/), Django (https://www.djangoproject.com/), ou Flask( https://flask.palletsprojects.com/) NestJS (Node.js) ( https://docs.nestjs.com/), FastAPI (Python) (https://fastapi.tiangolo.com/) e Spring Data (Java) (https://docs.spring.io/spring-data/jpa/docs/current-SNAPSHOT/reference/html/) para criar APIs.
   
@@ -44,7 +44,7 @@ Aqui estão alguns exemplos práticos:
 
 ---
 
-🚗## **Tipos de APIs no Mercado**
+## **Tipos de APIs no Mercado**
 As APIs podem ser classificadas dependendo de como são usadas e acessadas:
 
 ### **1. APIs Públicas (Abertas)**  
@@ -70,7 +70,7 @@ As APIs podem ser classificadas dependendo de como são usadas e acessadas:
   **Exemplos**: REST, SOAP, GraphQL e WebSocket (mais detalhes abaixo).
 
 ---
-🚀## **Quando Usar Cada Tipo**
+## **Quando Usar Cada Tipo**
 
 | **Tipo**     | **Uso Ideal**                                               | **Exemplo de Projeto**                            |
 |--------------|-------------------------------------------------------------|--------------------------------------------------|
@@ -81,12 +81,12 @@ As APIs podem ser classificadas dependendo de como são usadas e acessadas:
 
 ---
 
-❤💜 **Cada etapa é conectada sequencialmente, representando o fluxo de trabalho de criação, teste, implantação e manutenção de uma API.**
+**Cada etapa é conectada sequencialmente, representando o fluxo de trabalho de criação, teste, implantação e manutenção de uma API.**
 
 [Desenvolvimento] ---> [Testes Automatizados] ---> [Build e Deploy (CI/CD)] ---> [Monitoramento] ---> [Manutenção]
 
 ---
-**Resumo**:::☺😱
+**Resumo**:::
 1. **Como a API Funciona**:  
 https://www.freecodecamp.org/portuguese/news/o-que-e-uma-api-e-como-ela-funciona-apis-para-iniciantes/
 https://www.alura.com.br/artigos/api
