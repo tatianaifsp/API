@@ -1,6 +1,3 @@
-Aqui está o texto ajustado para o formato de um **README.md** que pode ser usado no GitHub, incluindo espaço para **figuras**:
-
----
 
 # API😊 
 
