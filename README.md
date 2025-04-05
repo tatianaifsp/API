@@ -32,7 +32,8 @@ No mercado, APIs são usadas para conectar sistemas de forma eficiente. Aqui est
 
 - **Segurança**:  
   Utiliza-se autenticação como OAuth para proteger as comunicações via API.
-
+  
+👨‍💻👩‍💻
 ### **Tecnologias Usadas**
 - **Frameworks**: Ferramentas como Express.js (https://expressjs.com/pt-br/), Django (https://www.djangoproject.com/), ou Flask( https://flask.palletsprojects.com/) NestJS (Node.js) ( https://docs.nestjs.com/), FastAPI (Python) (https://fastapi.tiangolo.com/) e Spring Data (Java) (https://docs.spring.io/spring-data/jpa/docs/current-SNAPSHOT/reference/html/)  para criar APIs.
   
@@ -78,10 +79,12 @@ As APIs podem ser classificadas dependendo de como são usadas e acessadas:
 | **WebSocket**| Comunicação em tempo real.                                   | Chat, notificações, jogos multiplayer.          |
 
 ---
+❤💜
+
 Cada etapa é conectada sequencialmente, representando o fluxo de trabalho de criação, teste, implantação e manutenção de uma API.
 [Desenvolvimento] ---> [Testes Automatizados] ---> [Build e Deploy (CI/CD)] ---> [Monitoramento] ---> [Manutenção]
 
-
+Resumo:::☺😱
 1. **Como a API Funciona**:  
 https://www.freecodecamp.org/portuguese/news/o-que-e-uma-api-e-como-ela-funciona-apis-para-iniciantes/
 https://www.alura.com.br/artigos/api
