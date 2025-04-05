@@ -16,29 +16,29 @@ Você dá o pedido ao garçom (API), e ele leva para a cozinha (sistema). Quando
 A API faz essa **ponte de comunicação** entre você e o sistema.
 
 ---
-👀
-## **Como Usar APIs no Mercado (Profissional)**
+👀 ## **Como Usar APIs no Mercado (Profissional)**
 No mercado, APIs são usadas para conectar sistemas de forma eficiente. 
 
 Aqui estão alguns exemplos práticos:
-- **Automatizar Processos**:  
+**Automatizar Processos**:  
   Exemplo: Usar APIs de pagamento (como PayPal) para integrar com sites de e-commerce.
 
-- **Consumir Dados Externos**:  
+**Consumir Dados Externos**:  
   Exemplo: Empresas utilizam APIs de redes sociais para monitorar engajamento.
 
-- **Criar APIs Internas**:  
+**Criar APIs Internas**:  
   Exemplo: Desenvolver uma API que conecte o banco de dados ao aplicativo para buscar informações.
 
-- **Segurança**:  
+**Segurança**:  
   Utiliza-se autenticação como OAuth para proteger as comunicações via API.
   
 👨‍💻👩‍💻 ### **Tecnologias Usadas**
-- **Frameworks**: Ferramentas como Express.js (https://expressjs.com/pt-br/), Django (https://www.djangoproject.com/), ou Flask( https://flask.palletsprojects.com/) NestJS (Node.js) ( https://docs.nestjs.com/), FastAPI (Python) (https://fastapi.tiangolo.com/) e Spring Data (Java) (https://docs.spring.io/spring-data/jpa/docs/current-SNAPSHOT/reference/html/)  para criar APIs.
+
+**Frameworks**: Ferramentas como Express.js (https://expressjs.com/pt-br/), Django (https://www.djangoproject.com/), ou Flask( https://flask.palletsprojects.com/) NestJS (Node.js) ( https://docs.nestjs.com/), FastAPI (Python) (https://fastapi.tiangolo.com/) e Spring Data (Java) (https://docs.spring.io/spring-data/jpa/docs/current-SNAPSHOT/reference/html/) para criar APIs.
   
-- **Teste e Documentação**: Use ferramentas como Swagger(https://swagger.io/docs/) para documentar suas APIs.
+**Teste e Documentação**: Use ferramentas como Swagger(https://swagger.io/docs/) para documentar suas APIs.
   
-- **Integração Avançada**: APIs podem se conectar com sistemas maiores como ERPs, CRMs e bancos de dados, como MySQL, PostgreSQL, MongoDB (NoSQL) ou SQLite, para realizar operações CRUD (Create, Read, Update, Delete) de forma eficiente.
+**Integração Avançada**: APIs podem se conectar com sistemas maiores como ERPs, CRMs e bancos de dados, como MySQL, PostgreSQL, MongoDB (NoSQL) ou SQLite, para realizar operações CRUD (Create, Read, Update, Delete) de forma eficiente.
   
 🚗## **Tipos de APIs no Mercado**
 As APIs podem ser classificadas dependendo de como são usadas e acessadas:
