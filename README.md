@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/db33e083-5239-4ae3-bcfb-e82ac25edefd)
-
 # API
 
 API significa Application Programming Interface, ou, em português, **Interface de Programação de Aplicações**. 
