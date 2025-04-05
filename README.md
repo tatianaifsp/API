@@ -78,17 +78,22 @@ As APIs podem ser classificadas dependendo de como são usadas e acessadas:
 | **WebSocket**| Comunicação em tempo real.                                   | Chat, notificações, jogos multiplayer.          |
 
 ---
+Cada etapa é conectada sequencialmente, representando o fluxo de trabalho de criação, teste, implantação e manutenção de uma API.
+[Desenvolvimento] ---> [Testes Automatizados] ---> [Build e Deploy (CI/CD)] ---> [Monitoramento] ---> [Manutenção]
 
-### **Ilustrações (Adicione Figuras)**
 
 1. **Como a API Funciona**:  
-   ![API como uma Ponte](https://via.placeholder.com/500x250)  
+https://www.freecodecamp.org/portuguese/news/o-que-e-uma-api-e-como-ela-funciona-apis-para-iniciantes/
+https://www.alura.com.br/artigos/api
 
-2. **Tipos de APIs**:  
-   ![Tipos de APIs no Mercado](https://via.placeholder.com/500x250)  
+3. **Tipos de APIs**:  
+https://www.docusign.com/pt-br/blog/quais-os-tipos-de-api
+https://blog.asaas.com/o-que-e-uma-api/
 
-3. **Exemplo de Fluxo REST**:  
-   ![Fluxo de API REST](https://via.placeholder.com/500x250)
+5. **Exemplo de Fluxo REST**:  
+https://www.freecodecamp.org/portuguese/news/tutorial-de-apis-rest-client-rest-servicos-rest-e-chamadas-de-api-explicados-com-exemplos-de-codigo/
+https://www.lucidchart.com/pages/pt/modelos/exemplo-de-fluxograma-de-api
+
 
 
 
