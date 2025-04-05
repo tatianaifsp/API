@@ -29,6 +29,8 @@ Aqui estão alguns exemplos práticos:
 **Criar APIs Internas**: Exemplo: Desenvolver uma API que conecte o banco de dados ao aplicativo para buscar informações.
 
 **Segurança**: Utiliza-se autenticação como OAuth para proteger as comunicações via API.
+
+---
   
 👨‍💻👩‍💻 ### **Tecnologias Usadas**
 
@@ -39,6 +41,8 @@ Aqui estão alguns exemplos práticos:
 **Integração Avançada**: APIs podem se conectar com sistemas maiores como ERPs, CRMs e bancos de dados, como MySQL, PostgreSQL, MongoDB (NoSQL) ou SQLite, para realizar operações CRUD (Create, Read, Update, Delete) de forma eficiente.
 
 **Segurança**: Utilize autenticação como OAuth (https://oauth.net/) para proteger a comunicação, JWT (https://jwt.io/) para validar usuários, e ferramentas como bcrypt (https://github.com/kelektiv/node.bcrypt.js) para criptografar dados sensíveis. Além disso, implemente práticas como o uso de Firewall de Banco de Dados para prevenir acessos não autorizados.
+
+---
 
 🚗## **Tipos de APIs no Mercado**
 As APIs podem ser classificadas dependendo de como são usadas e acessadas:
@@ -79,7 +83,9 @@ As APIs podem ser classificadas dependendo de como são usadas e acessadas:
 ❤💜 Cada etapa é conectada sequencialmente, representando o fluxo de trabalho de criação, teste, implantação e manutenção de uma API.
 [Desenvolvimento] ---> [Testes Automatizados] ---> [Build e Deploy (CI/CD)] ---> [Monitoramento] ---> [Manutenção]
 
-Resumo:::☺😱
+
+---
+**Resumo**:::☺😱
 1. **Como a API Funciona**:  
 https://www.freecodecamp.org/portuguese/news/o-que-e-uma-api-e-como-ela-funciona-apis-para-iniciantes/
 https://www.alura.com.br/artigos/api
