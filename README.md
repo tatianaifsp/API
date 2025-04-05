@@ -17,20 +17,18 @@ A API faz essa **ponte de comunicação** entre você e o sistema.
 
 ---
 👀 ## **Como Usar APIs no Mercado (Profissional)**
+
 No mercado, APIs são usadas para conectar sistemas de forma eficiente. 
 
 Aqui estão alguns exemplos práticos:
-**Automatizar Processos**:  
-  Exemplo: Usar APIs de pagamento (como PayPal) para integrar com sites de e-commerce.
 
-**Consumir Dados Externos**:  
-  Exemplo: Empresas utilizam APIs de redes sociais para monitorar engajamento.
+**Automatizar Processos**: Exemplo: Usar APIs de pagamento (como PayPal) para integrar com sites de e-commerce.
 
-**Criar APIs Internas**:  
-  Exemplo: Desenvolver uma API que conecte o banco de dados ao aplicativo para buscar informações.
+**Consumir Dados Externos**: Exemplo: Empresas utilizam APIs de redes sociais para monitorar engajamento.
 
-**Segurança**:  
-  Utiliza-se autenticação como OAuth para proteger as comunicações via API.
+**Criar APIs Internas**: Exemplo: Desenvolver uma API que conecte o banco de dados ao aplicativo para buscar informações.
+
+**Segurança**: Utiliza-se autenticação como OAuth para proteger as comunicações via API.
   
 👨‍💻👩‍💻 ### **Tecnologias Usadas**
 
@@ -39,7 +37,9 @@ Aqui estão alguns exemplos práticos:
 **Teste e Documentação**: Use ferramentas como Swagger(https://swagger.io/docs/) para documentar suas APIs.
   
 **Integração Avançada**: APIs podem se conectar com sistemas maiores como ERPs, CRMs e bancos de dados, como MySQL, PostgreSQL, MongoDB (NoSQL) ou SQLite, para realizar operações CRUD (Create, Read, Update, Delete) de forma eficiente.
-  
+
+**Segurança**: Utilize autenticação como OAuth (https://oauth.net/) para proteger a comunicação, JWT (https://jwt.io/) para validar usuários, e ferramentas como bcrypt (https://github.com/kelektiv/node.bcrypt.js) para criptografar dados sensíveis. Além disso, implemente práticas como o uso de Firewall de Banco de Dados para prevenir acessos não autorizados.
+
 🚗## **Tipos de APIs no Mercado**
 As APIs podem ser classificadas dependendo de como são usadas e acessadas:
 
