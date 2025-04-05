@@ -18,8 +18,9 @@ A API faz essa **ponte de comunicação** entre você e o sistema.
 ---
 👀
 ## **Como Usar APIs no Mercado (Profissional)**
-No mercado, APIs são usadas para conectar sistemas de forma eficiente. Aqui estão alguns exemplos práticos:
+No mercado, APIs são usadas para conectar sistemas de forma eficiente. 
 
+Aqui estão alguns exemplos práticos:
 - **Automatizar Processos**:  
   Exemplo: Usar APIs de pagamento (como PayPal) para integrar com sites de e-commerce.
 
