@@ -16,7 +16,7 @@ Você dá o pedido ao garçom (API), e ele leva para a cozinha (sistema). Quando
 A API faz essa **ponte de comunicação** entre você e o sistema.
 
 ---
-👀 ## **Como Usar APIs no Mercado (Profissional)**
+👀 ### **Como Usar APIs no Mercado (Profissional)**
 
 No mercado, APIs são usadas para conectar sistemas de forma eficiente. 
 
