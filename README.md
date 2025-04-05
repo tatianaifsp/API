@@ -1,4 +1,4 @@
-![Logo do SENAI](https://sitefiespstorage.blob.core.windows.net/uploads/2022/08/file-20220802140942-senai-logo-e1659449473382.jpg)
+![image](https://github.com/user-attachments/assets/db33e083-5239-4ae3-bcfb-e82ac25edefd)
 
 # API
 
